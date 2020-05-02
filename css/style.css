@@ -16,12 +16,12 @@ h2, h3{
 	margin: 10px 0;
 
 }
-.segment-two h3{
+.segment-two h5{
 	color: #fff;
 	text-transform: uppercase;
 
 }
-.segment-two h3:before{
+.segment-two h5:before{
 	content: '|';
 	color: #c65039;
 	padding-right: 10px;
@@ -40,12 +40,12 @@ h2, h3{
 	color: #999;
 	text-decoration:none;
 }
-.segment-three h2{
+.segment-three h5{
 	color: #fff;
 	text-transform: uppercase;
 
 }
-.segment-three h2:before{
+.segment-three h5:before{
 	content: '|';
 	color: #c65039;
 	padding-right: 10px;
@@ -63,11 +63,11 @@ h2, h3{
 		color: #fff;
 		padding: 10px 12px;
 }
-.segment-four h2{
+.segment-four h5{
 	color: #fff;
 	text-transform: uppercase;
 }
-.segment-four h2:before{
+.segment-four h5:before{
 	content: '|';
 	color: #c65039;
 	padding-right: 10px;
