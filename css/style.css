@@ -85,3 +85,10 @@ h2, h3{
 	background: #000;
 	line-height: 75px;
 }
+
+.card-img-top{
+	background-image: url('img/mac1.jpg');
+}
+.card-img-top article:hover .card-img-top {
+background-image: url('img/mac1-hover.jpg');
+}
