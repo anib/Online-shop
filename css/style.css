@@ -92,3 +92,8 @@ h2, h3{
 .card-img-top article:hover .card-img-top {
 background-image: url('img/mac1-hover.jpg');
 }
+
+.btn-primary{
+	background-color: #c65039;
+	border-color: #c65039;
+}
